@@ -12,8 +12,8 @@ def multiple_or_sum(num1,num2):
         return num1 + num2
 
 calc = multiple_or_sum (20,30)
-print("the resukt is" , calc)
+print("the result is" , calc)
 
 calc = multiple_or_sum (40,30)
-print("the resukt is" , calc)
+print("the result is" , calc)
 
