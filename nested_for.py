@@ -1,7 +1,7 @@
 
 
 print ("----- Luah Hacefel-------")
-multiple_by=100
+multiple_by=10
 multiple=10
 
 for m in range (1,multiple_by+1):
